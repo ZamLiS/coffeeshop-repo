@@ -164,6 +164,10 @@
   margin: 80px 0 0 0;
 }
 
+.recipes__iframe {
+  border: 0;
+}
+
 .recipes__video-caption {
   display: flex;
   flex-direction: row;
