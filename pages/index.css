@@ -205,6 +205,9 @@
 
 .form {
   margin: 0px;
+}
+
+.reservation__form {
   max-width: 385px;
   width: 100%;
   display: flex;
